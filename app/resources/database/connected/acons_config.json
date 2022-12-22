@@ -1,11 +1,12 @@
 {
-  "latestVersion": "Bassia",
-  "latestVersionCode": 1,
+  "latestVersion": "Dara",
+  "latestVersionCode": 2,
   "disableRequest": {
     "below": 374
   },
   "url": "https://github.com/anarchist22/AconsYou",
   "releaseNotes": [
+    "ESTO ES UNA PRUEBA DE ACTUALIZACIÓN",
     "Iconos chidos que ni idea cuántos son",
     "Amo a los mishis",
     "Holam",

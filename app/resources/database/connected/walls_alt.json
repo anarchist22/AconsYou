@@ -1,74 +1,14 @@
 [
   {
-    "name": "Aerial View",
-    "author": "Felfin Evin",
-    "url": "https://source.unsplash.com/XvFfPTSP2gA/1400x0",
-    "thumbUrl": "https://source.unsplash.com/XvFfPTSP2gA/200x0"
+    "name": "Material Curve",
+    "author": "Utopia Walls",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_curve.png",
+    "thumbUrl": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_curve.png"
   },
   {
     "name": "Abstract Painting",
     "author": "Alexander Ant",
     "url": "https://source.unsplash.com/EHlp8e-nQ3g/1400x0",
     "thumbUrl": "https://source.unsplash.com/EHlp8e-nQ3g/200x0"
-  },
-  {
-    "name": "Grass",
-    "author": "Mike Vidrashko",
-    "url": "https://source.unsplash.com/4dhSFeg1pkU/1400x0",
-    "thumbUrl": "https://source.unsplash.com/4dhSFeg1pkU/200x0"
-  },
-  {
-    "name": "Light Magic",
-    "author": "Alexander Ant",
-    "url": "https://source.unsplash.com/bYpqDs-lVJ8/1400x0",
-    "thumbUrl": "https://source.unsplash.com/bYpqDs-lVJ8/200x0"
-  },
-  {
-    "name": "Flowers",
-    "author": "Annie Spratt",
-    "url": "https://source.unsplash.com/WBpr_yH0Frg/1400x0",
-    "thumbUrl": "https://source.unsplash.com/WBpr_yH0Frg/200x0"
-  },
-  {
-    "name": "Neon Fun",
-    "author": "Benjamin Szabo",
-    "url": "https://source.unsplash.com/9c7aC2CfgVM/1400x0",
-    "thumbUrl": "https://source.unsplash.com/9c7aC2CfgVM/200x0"
-  },
-  {
-    "name": "Abtract Painting",
-    "author": "Joel Filipe",
-    "url": "https://source.unsplash.com/Mbf3xFiC1Zo/1400x0",
-    "thumbUrl": "https://source.unsplash.com/Mbf3xFiC1Zo/200x0"
-  },
-  {
-    "name": "Race It",
-    "author": "Andre Tan",
-    "url": "https://source.unsplash.com/-O5a-OvFeTU/1400x0",
-    "thumbUrl": "https://source.unsplash.com/-O5a-OvFeTU/200x0"
-  },
-  {
-    "name": "Earth View",
-    "author": "NASA",
-    "url": "https://source.unsplash.com/WKT3TE5AQu0/1400x0",
-    "thumbUrl": "https://source.unsplash.com/WKT3TE5AQu0/200x0"
-  },
-  {
-    "name": "Water Droplets",
-    "author": "Faris Mohammed",
-    "url": "https://source.unsplash.com/l4ytdnzk8sk/1400x0",
-    "thumbUrl": "https://source.unsplash.com/l4ytdnzk8sk/200x0"
-  },
-  {
-    "name": "Golden Hour",
-    "author": "Damien DUFOUR Photographie",
-    "url": "https://source.unsplash.com/TQr6XyHwCSI/1400x0",
-    "thumbUrl": "https://source.unsplash.com/TQr6XyHwCSI/200x0"
-  },
-  {
-    "name": "Far Away",
-    "author": "Scott Taylor",
-    "url": "https://source.unsplash.com/02a4DSekRVg/1400x0",
-    "thumbUrl": "https://source.unsplash.com/02a4DSekRVg/200x0"
   }
 ]

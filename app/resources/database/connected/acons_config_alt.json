@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": 375,
+  "latestVersion": "Bassia",
+  "latestVersionCode": 1,
   "disableRequest": {
     "below": 374
   },
-  "url": "https://github.com/zixpo/candybar",
+  "url": "https://t.me/waifupx_official",
   "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "This is Awesome",
-    "Please Enjoy My Friend",
-    "<b>This</b> is Just for <i>Testing</i>"
+    "Iconos chidos",
+    "XD",
+    "Holam",
+    "<b>Negrita</b> o también <i>italic</i>"
   ]
 }

@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/anarchist22/AconsYou?color=%23b597f4&style=for-the-badge)
 [![Canal en Telegram](https://img.shields.io/badge/Canal_Telegram-2CA5E0.svg?style=for-the-badge&logo=Telegram)](https://t.me/acons_icons "Contact me in Telegram")
  
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/wpx_shizuku.png)
+![alt text](https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/drawables/logo_acons.png)
 
 **Go to** 
 

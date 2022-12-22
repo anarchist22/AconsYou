@@ -10,6 +10,6 @@
 
 [![Download](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?color=%23b597f4&label=Descargar&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases)
 
-<p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
+<p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/grey.png" width="175"></a></p>
 
 Acons You is a beautiful Icon Pack designed for user by Android 12 and above.

@@ -1,7 +1,7 @@
 # AconsYou
 [![Android](https://img.shields.io/badge/Plataforma-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms)
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/WaifuPX?color=%23b597f4&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases/latest)
-![Stars](https://img.shields.io/github/stars/WaifuPX-DG/WaifuPX?color=%23b597f4&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/anarchist22/AconsYou?color=%23b597f4&style=for-the-badge)
 [![Canal en Telegram](https://img.shields.io/badge/Canal_Telegram-2CA5E0.svg?style=for-the-badge&logo=Telegram)](https://t.me/acons_icons "Contact me in Telegram")
  
 ![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/wpx_shizuku.png)

@@ -9,16 +9,19 @@
     "name": "You Desert",
     "author": "An",
     "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_desert_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_desert_prev.png"},
-      {
+    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_desert_prev.png"
+  },
+  {
     "name": "You Lotus",
     "author": "An",
     "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_desert_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_desert_prev.png"},
+    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_desert_prev.png"
+  },
   {
     "name": "You Hannie",
     "author": "An",
     "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_hannie_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_hannie_prev.png"}
+    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_hannie_prev.png"
+  }
 ]
 

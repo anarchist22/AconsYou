@@ -10,6 +10,6 @@
 
 [![Download](https://img.shields.io/github/downloads/anarchist22/AconsYou/total?color=%23b597f4&label=Descargar&style=rounded)](https://github.com/anarchist22/AconsYou/releases)
 
-<p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="175"></a></p>
+<p align="vertical"><a href="https://www.paypal.me/LuisDiazGipa"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="175"></a></p>
 
 Acons You is a beautiful Icon Pack designed for user by Android 12 and above.

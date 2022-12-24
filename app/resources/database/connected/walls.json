@@ -1,27 +1,38 @@
 [
   {
-    "name": "Material Curve",
-    "author": "Utopia Walls",
-    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_curve.png",
-    "thumbUrl": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Jl22/material_curve.png"
-  },
-  {
     "name": "You Desert",
     "author": "An",
     "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_desert_wall.png",
     "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_desert_prev.png"
   },
   {
-    "name": "Lotus",
+    "name": "You Sun Green",
+    "author": "An",
+    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_sun_green.png",
+    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_sun_green_prev.png"
+  },
+  {
+    "name": "You Mountain",
+    "author": "An",
+    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_mountain_wall.png",
+    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_mountain_prev.png"
+  },
+    {
+    "name": "You Lotus",
     "author": "An",
     "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_lotus_wall.png",
     "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_lotus_prev.png"
   },
   {
-    "name": "Hannie",
+    "name": "You Universe",
     "author": "An",
-    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_hannie_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_hannie_prev.png"
+    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_universe_wall.png",
+    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_universe_prev.png"
+  },
+  {
+    "name": "You Desert Dark",
+    "author": "An",
+    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_desert_dark_wall.png",
+    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_desert_dark_prev.png"
   }
 ]
-

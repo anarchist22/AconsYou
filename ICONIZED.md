@@ -10,10 +10,10 @@
 	*Android System Intelligence
 	*Appteka
 	+Apk Editor
-	_auxio" name="Auxio" />
-	_avast_cleanup" name="Avast Cleanup" />
-	_background_eraser" name="Background Eraser" />
-	_blackplayer" name="BlackPlayer" />
+	Auxio
+	Avast Cleanup
+	Background Eraser
+	BlackPlayer
 	_blendy_wallpapers" name="Blendy Wallpapers" />
 	_bomber_friends" name="Bomber Friends" />
 	_bugjaeger" name="Bugjaeger" />

@@ -12,4 +12,4 @@
 
 <p align="vertical"><a href="https://www.paypal.me/LuisDiazGipa"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="175"></a></p>
 
-Acons You is a beautiful Icon Pack designed for user by Android 12 and above.
+Acons You is a beautiful Icon Pack designed for user by Android 12 and above. You can view the themed Icons [here](https://github.com/anarchist22/AconsYou/blob/main/ICONIZED.md)

@@ -26,9 +26,13 @@
 	• Camera GO (Camera Google)
 	• Camera LMC8.4 
 	• Chrome 
+	• Chrome Beta
+	• Chrome Canary
+	• Chrome Dev
     • Clock 
-	• Docs by google 
-    • DGicons You 
+    • DGicons You
+    • Discord
+   	• Docs by google 
 	• Drive by google 
 	• EPIK Icons
 	• Facebook 
@@ -39,6 +43,7 @@
 	• Gallery by Samsung 
 	• Gallery Go 
 	• Gb WhatsApp 
+	• GitHub
     • Gmail 
 	• Google 
 	• Google Assistant 

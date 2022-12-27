@@ -1,4 +1,4 @@
-# Iconos Aconizados
+# Icons Aconized
 
 
 	• 1Gallery
@@ -49,6 +49,7 @@
 	• Instagram Lite 
 	• Instander 
 	• InstaPro 
+	• Justwatch
 	• Keep Notes 
 	• Lawnchair (Day & Night mode)
 	• Lens by Google 
@@ -101,6 +102,8 @@
 	• Polarr 
 	• popWALLS 
 	• PUBG Mobile 
+	• Pulsar Music
+    • Pulsar Music Pro
 	• Read You 
 	• Recorder by google 
 	• Reddit 
@@ -109,6 +112,7 @@
 	• Repainter 
 	• Retro Music 
 	• Revanced YouTube 
+	• SAI
 	• Samsung Internet 
 	• Samsung Members 
 	• Samsung Music 
@@ -153,6 +157,7 @@
 	• Webtoon 
 	• WhatsApp 
 	• WhatsApp Business
+    • XAPKS Installer
 	• Yo WhatsApp
 	• You Icons
 	• YT Music

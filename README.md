@@ -1,7 +1,7 @@
 # AconsYou
 [![Android](https://img.shields.io/badge/Plataforma-Android-lime.svg?style=for-the-badge)](https://www.android.com)
-[![API](https://img.shields.io/badge/API-21%2B-cyan.svg?logo=android&tint:blue&style=for-the-badge)](https://developer.android.com/studio/releases/platforms)
-[![Release](https://img.shields.io/github/v/release/anarchist22/AconsYou?color=%23b597f4&style=for-the-badge)](https://github.com/anarchist22/AconsYou/releases)
+[![API](https://img.shields.io/badge/API-21%2B-cyan.svg?logo=android&style=for-the-badge)](https://developer.android.com/studio/releases/platforms)
+[![Release](https://img.shields.io/github/v/release/anarchist22/AconsYou?color=blue&style=for-the-badge)](https://github.com/anarchist22/AconsYou/releases)
 ![Stars](https://img.shields.io/github/stars/anarchist22/AconsYou?color=yellow&style=for-the-badge)
 [![Telegram Channel](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/acons_icons "Contact me in Telegram")
 

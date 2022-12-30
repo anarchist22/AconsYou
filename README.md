@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/anarchist22/AconsYou?color=yellow&style=for-the-badge)
 [![Telegram Channel](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/acons_icons "Contact me in Telegram")
 
-<bold>Acons You is a beautiful Icon Pack with multitone and dinamic icons designed for users by Android 12 and above. You can view the themed Icons [here](https://github.com/anarchist22/AconsYou/blob/main/ICONIZED.md)</bold>
+<bold>Acons You is a beautiful Icon Pack with multitone and dinamic colors designed for users by Android 12 and above. You can view the themed Icons [here](https://github.com/anarchist22/AconsYou/blob/main/ICONIZED.md)</bold>
 
 
 ![alt text](https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/drawables/logo_acons.png)

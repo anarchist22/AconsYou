@@ -4,8 +4,8 @@
   "disableRequest": {
     "below": 374
   },
-  "url": "https://t.me/aconsPreReleases": 
-   [
+  "url": "https://t.me/aconsPreReleases",
+  "releaseNotes": [
     "Repeated icons removed",
     "Some icons optimized from 192 to 256 pixels, very soon all icons will have this dimension",
     "Application package change - <i>Uninstall the old version and install this new version</i>",

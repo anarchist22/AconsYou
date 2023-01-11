@@ -1,16 +1,18 @@
 {
-  "latestVersion": "Dara",
+  "latestVersion": "Dhasia",
   "latestVersionCode": 2,
   "disableRequest": {
     "below": 374
   },
   "url": "https://github.com/anarchist22/AconsYou",
   "releaseNotes": [
-    "ESTO ES UNA PRUEBA DE ACTUALIZACIÓN",
-    "Iconos chidos que ni idea cuántos son",
-    "Amo a los mishis",
-    "Holam",
-    "<b>Negrita en Test</b> o <i>italic en code</i>"
+    "Repeated icons removed",
+    "Application package change - <i>Uninstall the old version and install this new version</i>",
+    "Icon request reduced to 5 icons, but later you will be able to buy requests through the means of donation",
+    "Bug fix when tapping on fast scroll on Android 12 and 13 devices",
+    "<i>Base changed to CandyBar FOSS</i>
+
+    "<b&i>Agradecimiento especial a Donnno</b&i>
   ]
 }
 

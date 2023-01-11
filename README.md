@@ -16,5 +16,7 @@
 
 <p align="vertical"><a href="https://www.paypal.me/LuisDiazGipa"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="175"></a></p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R6HJCME)
+
 ## Help translating 🌍
 :page_facing_up: Help making Acons You available in more languages. [Click here to go to the translation site](https://crowdin.com/project/acons-you/invite?h=db3fdc8614dac980e0b8364af53487d11551497)

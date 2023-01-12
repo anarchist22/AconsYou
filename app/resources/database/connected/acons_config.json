@@ -1,8 +1,8 @@
 {
   "latestVersion": "Dhasia",
-  "latestVersionCode": 2,
+  "latestVersionCode": 1,
   "disableRequest": {
-    "below": 374
+    "below": 5
   },
   "url": "https://t.me/aconsPreReleases",
   "releaseNotes": [

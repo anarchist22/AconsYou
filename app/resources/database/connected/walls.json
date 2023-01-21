@@ -1,38 +1,32 @@
 [
-  {
-    "name": "You Desert",
-    "author": "An",
-    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_desert_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_desert_prev.png"
-  },
-  {
-    "name": "You Sun Green",
-    "author": "An",
-    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_sun_green.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_sun_green_prev.png"
-  },
-  {
-    "name": "You Mountain",
-    "author": "An",
-    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_mountain_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_mountain_prev.png"
-  },
-    {
-    "name": "You Lotus",
-    "author": "An",
-    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_lotus_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_lotus_prev.png"
-  },
-  {
-    "name": "You Universe",
-    "author": "An",
-    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_universe_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_universe_prev.png"
-  },
-  {
-    "name": "You Desert Dark",
-    "author": "An",
-    "url": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/you_desert_dark_wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/anarchist22/AconsYou/main/app/resources/database/walls/prev/you_desert_dark_prev.png"
-  }
+	{
+		"name": "Sunset Yellow",
+		"author": "Awalls YOU App",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_yellow_wall.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_yellow_thumbnail.jpg"
+	},
+	{
+		"name": "Sunset Green",
+		"author": "Awalls YOU App",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_green_wall.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_green_thumbnail.jpg"
+	},
+	{
+		"name": "Sunset",
+		"author": "Awalls YOU App",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_wall.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_thumbnail.jpg"
+	},
+	{
+		"name": "Sunset Lime",
+		"author": "Awalls You App",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_lime_wall.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_lime_thumbnail.jpg"
+	},
+	{
+		"name": "Sunset Flamingo",
+		"author": "Awalls YOU App",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_flamingo_wall.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_flamingo_thumbnail.jpg"
+	}
 ]

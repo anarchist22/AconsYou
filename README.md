@@ -21,7 +21,7 @@
 
 ## Premium Request 💎
 
-**Prices**
+**✨ Prices**
 
 
 >• 10 premium requests = 5 Dollars (USD) 
@@ -30,7 +30,7 @@
 
 
 
-**Required for premium application**
+**🧪 Required for premium application**
 
   
 >• You need to have [Icon Request App installed](https://github.com/Kaiserdragon2/IconRequest/releases)
@@ -39,7 +39,7 @@
 
 
 
-**How to make premium request?**
+**🏷️ How to make premium request?**
 
 > Here is the correct way to make a premium icon request.
 
@@ -62,7 +62,7 @@ Attach the screenshot of the payment made to the request as proof.
 
 5 - Wait patiently for your request, please remember that all icons in premium requests will be made without exception. The regular request depends on the developer, Premium requests are made and are of high priority and importance.
 
-**Do you have questions about premium requests?**
+**✉️ Do you have questions about premium requests?**
 
 >Write to the developer to solve your doubts
 

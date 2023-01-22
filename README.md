@@ -47,15 +47,17 @@
 1 - See the prices and make the payment through our donation methods integrated into the app. (Take a screenshot of this).
 
 
-2 - Go to the Icon Request app • New request • Select Acons You • Select 10 or 20 apps based on the request amount you paid.
+2 - Contact to the dev to our email available in the about of the app or you can also do it directly to the developer in Telegram  
+
+[<img src="https://img.shields.io/badge/Telegram-252525.svg?&style=for-the-badge&logo=telegram&logoColor=4483FF"/>](https://www.t.me/anarchist22/) 
+
+Attach the screenshot of the payment made to the request as proof.
 
 
-3 - Click to icon share and send zip file to our contact email available in the about of the app or you can also do it directly to the developer in Telegram  
-
-[<img src="https://img.shields.io/badge/Telegram-252525.svg?&style=for-the-badge&logo=telegram&logoColor=4483FF"/>](https://www.t.me/anarchist22/)
+3 - Go to the Icon Request app • New request • Select Acons You • Select 10 or 20 apps based on the request amount you paid.
 
 
-4 - Attach the screenshot of the payment made to the request as proof.
+4 - Click to icon share and send zip file to the dev (Email or Telegram)
 
 
 5 - Wait patiently for your request, please remember that all icons in premium requests will be made without exception. The regular request depends on the developer, Premium requests are made and are of high priority and importance. 

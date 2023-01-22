@@ -60,7 +60,11 @@ Attach the screenshot of the payment made to the request as proof.
 4 - Click to icon share and send zip file to the dev (Email or Telegram)
 
 
-5 - Wait patiently for your request, please remember that all icons in premium requests will be made without exception. The regular request depends on the developer, Premium requests are made and are of high priority and importance. 
+5 - Wait patiently for your request, please remember that all icons in premium requests will be made without exception. The regular request depends on the developer, Premium requests are made and are of high priority and importance.
+
+**Do you have questions about premium requests?**
+
+>Write to the developer to solve your doubts
 
 ## Help translating 🌍
 :page_facing_up: Help making Acons You available in more languages. [Click here to go to the translation site](https://crowdin.com/project/acons-you/invite?h=db3fdc8614dac980e0b8364af53487d11551497)

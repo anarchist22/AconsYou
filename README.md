@@ -50,7 +50,7 @@
 2 - Go to the Icon Request app • New request • Select Acons You • Select 10 or 20 apps based on the request amount you paid.
 
 
-3 - Click to icon share and send zip file to our contact email available in the about of the app or you can also do it directly to the developer by Telegram  
+3 - Click to icon share and send zip file to our contact email available in the about of the app or you can also do it directly to the developer in Telegram  
 
 [<img src="https://img.shields.io/badge/Telegram-252525.svg?&style=for-the-badge&logo=telegram&logoColor=4483FF"/>](https://www.t.me/anarchist22/)
 

@@ -21,15 +21,42 @@
 
 ## Premium Request 💎
 
-<bold>How to make premium request?</bold>
+**Prices**
+
+
+>• 10 premium requests = 5 Dollars (USD) 
+
+>• 20 premium requests = 10 Dollars (USD)
+
+
+
+**Required for premium application**
+
+  
+>• You need to have [Icon Request App installed](https://github.com/Kaiserdragon2/IconRequest/releases)
+  
+>• Have any of these payment methods "Paypal - Liberapay - Ko-fi"
+
+
+
+**How to make premium request?**
 
 > Here is the correct way to make a premium icon request.
-  
-  • You need to have Icon Request App installed
-  
-  • Have any of these payment methods "Paypal - Liberapay - Ko-fi"
 
 
+1 - See the prices and make the payment through our donation methods integrated into the app. (Take a screenshot of this).
+
+
+2 - Go to the Icon Request app • New request • Select Acons You • Select 10 or 20 apps based on the request amount you paid.
+
+
+3 - Click to icon share and send zip file to [telegram](t.me/anarchist22) or our [mail](aleszoandres@gmail.com)
+
+
+4 - Attach the screenshot of the payment made to the request as proof.
+
+
+5 - Wait patiently for your request, please remember that all icons in premium requests will be made without exception. The regular request depends on the developer, Premium requests are made and are of high priority and importance. 
 
 ## Help translating 🌍
 :page_facing_up: Help making Acons You available in more languages. [Click here to go to the translation site](https://crowdin.com/project/acons-you/invite?h=db3fdc8614dac980e0b8364af53487d11551497)

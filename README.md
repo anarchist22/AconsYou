@@ -23,7 +23,12 @@
 
 <bold>How to make premium request?</bold>
 
----Here are the correct steps to follow to make a premium icon request 
+> Here is the correct way to make a premium icon request.
+  
+  • You need to have Icon Request App installed
+  
+  • Have any of these payment methods "Paypal - Liberapay - Ko-fi"
+
 
 
 ## Help translating 🌍

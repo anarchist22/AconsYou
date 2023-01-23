@@ -30,7 +30,7 @@
 
 
 
-**🧪 Required for premium application**
+**🧪 Required for premium request**
 
   
 >• You need to have [Icon Request App installed](https://github.com/Kaiserdragon2/IconRequest/releases)

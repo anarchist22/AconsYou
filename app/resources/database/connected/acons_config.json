@@ -1,6 +1,6 @@
 {
   "latestVersion": "Keisa",
-  "latestVersionCode": 2,
+  "latestVersionCode": 3,
   "disableRequest": {
     "below": 5
   },

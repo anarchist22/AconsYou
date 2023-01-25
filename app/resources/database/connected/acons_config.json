@@ -1,18 +1,18 @@
 {
-  "latestVersion": "Dhasia",
-  "latestVersionCode": 1,
+  "latestVersion": "Keisa",
+  "latestVersionCode": 2,
   "disableRequest": {
     "below": 5
   },
   "url": "https://t.me/aconsPreReleases",
   "releaseNotes": [
-    "Repeated icons removed",
-    "Some icons optimized from 192 to 256 pixels, very soon all icons will have this dimension",
-    "Application package change - <i>Uninstall the old version and install this new version</i>",
-    "Icon request reduced to 5 icons, but later you will be able to buy requests through the means of donation",
-    "Bug fix when tapping on fast scroll on Android 12 and 13 devices",
-    "<i>Base changed to CandyBar FOSS</i>",
-    "<b>Special thanks to Donnnno</b>"
+    "<b>250 Aconized Icons 🎉✨</b>",
+    "Some redesigned and connected icons",
+    "New multi-tone design line with little shadows",
+    "Minor fixes to clock and date widgets",
+    "Link to a premium request guide",
+    "Some changes I forgot",
+    "<i>Special thanks to Galahad WPX for his great contribution to the project</i>"
   ]
 }
 

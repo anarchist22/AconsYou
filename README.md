@@ -19,7 +19,17 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R6HJCME)
 
 
-## Premium Request 💎
+## Icon Request 🧪
+
+### Regular Request 🔧
+
+Option 1 : For regular request just open the app and touch in the request card in the home page and then select 5 icons  of your preference, The developer will choose some apps that are necessary from those requests. If your icon does not arrive, you have to wait.
+
+Option 2 : If the app does not appear on the application request screen, use the [Icon Request App](https://github.com/Kaiserdragon2/IconRequest/releases) and select just 5 icons, If you choose more icons, a payment will be required because that is taken as premium request.
+
+
+### Premium Request 💎
+
 
 **✨ Prices**
 
@@ -30,7 +40,7 @@
 
 
 
-**🧪 Required for premium request**
+**🪄 Required for premium request**
 
   
 >• You need to have [Icon Request App installed](https://github.com/Kaiserdragon2/IconRequest/releases)

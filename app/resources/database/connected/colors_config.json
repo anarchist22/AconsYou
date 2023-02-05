@@ -1,33 +1,13 @@
 {
-
   "latestVersion": "Moon Soojin",
-
   "latestVersionCode": 1,
-
   "disableRequest": {
-
     "below": 5
-
   },
-
   "url": "https://t.me/aconsPreReleases",
-
   "releaseNotes": [
-
-    "<b>250 Aconized Icons 🎉✨</b>",
-
-    "Some redesigned and connected icons",
-
-    "New multi-tone design line with little shadows",
-
-    "Minor fixes to clock and date widgets",
-
-    "Link to a premium request guide",
-
-    "Some changes I forgot",
-
-    "<i>Special thanks to Galahad WPX for his great contribution to the project</i>"
-
+    "<b>Release version with 300 Icons",
+    "Analog clock widget with a new design",
+    "<i>Thank you very much for supporting the project and for loving my work</i>"
   ]
-
 }

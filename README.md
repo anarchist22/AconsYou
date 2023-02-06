@@ -21,6 +21,8 @@
 
 ## Icon Request 🧪
 
+• Requests made from Acons YOU or Acons Colors are the same, so if you want to request icons, just do it from one app as I will not validate the request if you make one from Acons YOU and another from Acons Colors. Pay to request more than 5 icons. 
+
 ### Regular Request 🔧
 
 Option 1 : For regular request just open the app and touch in the request card in the home page and then select 5 icons  of your preference, The developer will choose some apps that are necessary from those requests. If your icon does not arrive, you have to wait.

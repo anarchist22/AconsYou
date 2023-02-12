@@ -1,170 +1,325 @@
-# Icons Aconized
+# Themed Icons
+
 
 
 	• 1Gallery
-	• Acons You
+	• 1.1.1.1 VPN+
+	• 99
+	• Abbey
+	• Acode
+	• Acons Colors
+	• Acons YOU
 	• Acorns
+	• AccuBattery
+	• AccuWeather
 	• Action Dash
 	• Action Launcher
-	• AccuBattery
-    • AccuWeather
-	• Android System Intelligence
-	• Appteka 
-	• Apk Editor 
-	• Auxio 
-	• Avast Cleanup 
-	• Background Eraser 
-	• BlackPlayer 
-	• Blendy Wallpapers 
-	• Bomber Friends 
-	• Bugjaeger 
-	• Call Of Duty 
-	• Camera AGC
-	• Camera / all devices
-	• Camera IMC
-	• Camera by Samsung 
-	• Camera GO (Camera Google)
-	• Camera LMC8.4 
-	• Chrome 
+	• Activity Manager
+	• Adaway
+	• Among Us
+	• Android System Intelligence (Personalization)
+	• Apple Music
+	• Appteka
+	• App Cloner
+	• Apk Editor
+	• Apk Editor 2
+	• Aptoide
+	• Arete Icons
+	• Authenticator
+	• AuthPass
+	• Authy
+	• Auxio
+	• Avast Cleanup
+	• Awalls YOU
+	• Background Eraser
+	• Battery Guru
+	• BeeTV
+	• Birday
+	• BlackPlayer
+	• Blendy Wallpapers
+	• Bomber Friends
+	• BPlayer
+	• Brave Browser
+	• Bromite
+	• Bugjaeger
+	• Bundled Notes
+	• Calculator
+	• Call Of Duty
+	• Calendar Dym (Default)
+	• Camera (AGC)
+	• Camera (Default)
+	• Camera (LMC)
+	• Camera (Samsung)
+	• Camera GO (Google)
+	• Camera LMC8.4
+	• CandyBar Dashboard
+	• Chrome
 	• Chrome Beta
 	• Chrome Canary
 	• Chrome Dev
-    • Clock 
-    • DGicons You
-    • Discord
-   	• Docs by google 
-	• Drive by google 
-	• EPIK Icons
-	• Facebook 
-	• Facebook Lite 
-	• Files by Google 
-	• Galaxy Store 
-	• Gallery Quickpic
-	• Gallery by Samsung 
-	• Gallery Go 
-	• Gb WhatsApp 
+	• Clock (Default)
+	• Coinbase
+	• Coinex
+	• CoinMarketCap
+	• Contacts (Default)
+	• Contacts (Google)
+	• Contacts (Samsung)
+	• Cyber Ghost
+	• Developer Assistant
+	• DGicons You
+	• didUP - Famiglia
+	• Discord
+	• Docs (Google)
+	• Dolby Atmos
+	• Dove
+	• Drive (Google)
+	• Dynamic Icons
+	• Edge
+	• Edge Beta
+	• Efootball™
+	• EPIK
+	• ExteraGram
+	• Facebook
+	• Facebook Lite
+	• Facetune
+	• Fake GPS Pro
+	• Files
+	• Files (Oneplus)
+	• Files by Google
+	• Firefox
+	• Firefox Beta
+	• Firefox Nightly
+	• Flo Ovulation
+	• Foxbit
+	• Galaxy Store
+	• Gallery (Quickpic)
+	• Gallery (Samsung)
+	• Gallery Go (Google)
+	• Gboard
+	• Gb WhatsApp
+	• Genshin Impact
 	• GitHub
-    • Gmail 
-	• Google 
-	• Google Assistant 
-	• Google TV 
-	• Health by Huawei 
-	• InstAero 
-	• Instagram 
-	• Instagram Lite 
-	• Instander 
-	• InstaPro 
+	• Glider
+	• Gmail
+	• Google
+	• Google Assistant
+	• Google Earth
+	• Google One
+	• Google TV
+	• Gpay
+	• Health (Huawei)
+	• HeyMelody
+	• HiShoot2i
+	• Howl
+	• HoYoLAB
+	• Hyperion
+	• Iceraven
+	• InstAero
+	• Instagram
+	• Instagram Lite
+	• Instander
+	• InstaPro
+	• Inure
+	• Inware
+	• IOSXPC Wallpapers
 	• Justwatch
-	• Keep Notes 
-	• Lawnchair (Day & Night mode)
-	• Lens by Google 
-	• Lensa 
-	• Lightroom 
-	• Lucky Patcher 
-	• Magisk Manager 
-	• Maps by google 
-	• Material Files 
-	• MDgram 
-	• Meet 
-	• Meet (Original) 
-    • Mega 
-	• Messages by google 
-	• Messages by Samsung 
-	• Mixplorer Theme Creator 
-	• Moviebase 
-	• MT Manager 
-	• Music by MIUI 
-	• Music by oppo
-	• My Files by Samsung 
-	• Nekogram 
-	• Nekogram X 
-	• Netflix 
-	• Ninja Voltage (Naruto X Boruto)
-	• Nova Launcher 
-    • Nova Launcher Prime 
-	• Nova Settings 
-	• NP Manager 
-	• One Hand Operation + 
-	• OneYou Icons 
-	• OneYou Themed 
-	• Owlgram 
-	• Parchisi Star 
-	• PENUP 
-	• Phone by Samsung Caller
-	• Photos by google
-	• Photoshop Express 
-	• PicsArt 
-    • Pigments 
-	• Piktures 
-	• Pinterest 
-	• Pixiv 
-	• Pix Material You Icons & Widgets 
-	• Pix Wallpapers 
-	• Plato 
-	• Play Games 
-	• Play Store 
-	• PLOP 
-	• Polarr 
-	• popWALLS 
-	• PUBG Mobile 
+	• Keep Notes
+	• Kiwi Browser
+	• Lawnchair
+	• Lawnchair Debug
+	• Lawnchair Settings
+	• Lens (Google)
+	• Lensa
+	• Lightleap
+	• Lightroom
+	• LIMBO
+	• Lojong Metitation
+	• LSposed
+	• Lucky Patcher
+	• M3 Catalog
+	• Magisk Delta
+	• Magisk Manager
+	• Magroove
+	• Maps (Google)
+	• Material Files
+	• Materixiv
+	• MDgram
+	• Meet
+	• Meet (Original)
+	• Mega
+	• Messages (Google)
+	• Messages (Samsung)
+	• Messenger (Facebook)
+	• Metal Pack
+	• Microsoft Office
+	• Microsoft Teams
+	• Minecraft
+	• MiX
+	• Mi Remote (Xiaomi)
+	• Mixplorer Theme Creator
+	• Motionleap
+	• Moviebase
+	• Moon Reader
+	• MT Manager
+	• MT Manager Canary
+	• Music (Xiaomi)
+	• Music (Oppo)
+	• My Files
+	• My Robi
+	• Nekogram (+ Nekogram Neon)
+	• Neko (Tachiyomi Client)
+	• Nekogram X
+	• Netflix
+	• Nextcloud
+	• Niagara Launcher
+	• Ninja Voltage
+	• Nothingbutwalls
+	• Nothing Recorder
+	• Nothing Weather
+	• Notes (Oneplus)
+	• Nova Launcher
+	• Nova Launcher Prime
+	• Nova Settings
+	• NP Manager
+	• One Hand Operation + (Samsung)
+	• OneYou Icons
+	• OneYou Themed
+	• Oto Music
+	• Otraku
+	• Owlgram
+	• Package Names Viewer
+	• Papago
+	• Parchisi Star
+	• PayPal
+	• PENUP
+	• Phone (Samsung)
+	• Phone by Google
+	• Photoleap
+	• Photos (Google)
+	• Photoshop Express
+	• PicsArt
+	• Pigments
+	• Piktures
+	• Pinterest
+	• Pixiv
+	• Pix Material You Icons and Widgets 
+	• Pix Wallpapers
+	• Plato
+	• Play Games
+	• Play Store
+	• PLOP
+	• Pokemon GO
+	• Polarr
+	• popWALLS
+	• Posidon Launcher
+	• Poweramp
+	• Proton VPN
+	• PUBG Mobile
 	• Pulsar Music
-    • Pulsar Music Pro
-	• Read You 
-	• Recorder by google 
-	• Reddit 
-	• Reminder 
-	• Remini 
-	• Repainter 
-	• Retro Music 
-	• Revanced YouTube 
+	• Pulsar Music Pro
+	• QuickEdit
+	• Radio (Default)
+	• Read You
+	• Recorder (Google)
+	• Reddit
+	• Relay Pro
+	• Reminder (Samsung)
+	• Remini
+	• Repainter
+	• Resplash
+	• Retro Music
+	• Revanced Manager
+	• Revanced YouTube
+	• Roblox
 	• SAI
-	• Samsung Internet 
-	• Samsung Members 
-	• Samsung Music 
-	• Samsung Notes 
-	• SD Maid 
-	• Settings / all devices 
-	• Signal 
-	• SIM Toolkit 
-	• SIM Toolkit 2 for devices with two SIM band
-	• Simple Gallery 
-	• Simple Gallery Pro 
-	• Sketchbook 
-	• Snapchat 
-	• Snapseed 
-	• Solid Explorer 
-	• Spotify 
-	• Spotify Lite 
-	• SpotiQ 
-	• SpotiQ Ten 
-	• Swift Backup 
-	• Telegram 
-	• Telegram Beta 
-	• Telegram Web 
-	• Telegram X 
-	• TG Monet 
-	• TikTok 
-	• TikTok Lite 
-	• Translate by Google 
-	• Twitch 
-	• Twitter 
-	• Twitter Lite 
-	• Updater by lineageOS
-	• UtopiaWalls+ 
-	• Via Browser 
-	• Video by Samsung 
-	• VSCO 
-	• Voice Recorder by Samsung 
-	• WAIFUPX 
-	• WAIFUPX Beta 
-	• WallSweets 
-	• Weather 
-	• Webtoon 
-	• WhatsApp 
+	• Samsung Flow
+	• Samsung Internet
+	• Samsung Members
+	• Samsung Music
+	• Samsung Notes
+	• Samsung Radio
+	• Samsung Themes
+	• SD Maid
+	• Seal Downloader For YT
+	• Secure VPN
+	• Settings
+	• Shazam
+	• Shazam Lite
+	• Signal
+	• SIM
+	• SIM 2
+	• Simple Gallery
+	• Simple Gallery Pro
+	• Sketch
+	• Sketchbook
+	• Snapchat
+	• Snapseed
+	• Sofascore
+	• Solid Explorer
+	• SoundCloud
+	• Spotify
+	• Spotify Lite
+	• SpotiQ
+	• SpotiQ Ten
+	• Stellio Player
+	• Sticker.ly
+	• SwiftKey Keyboard
+	• SwiftKey Keyboard Beta
+	• Swift Backup
+	• Tachiyomi
+	• Telegram
+	• Telegram Beta
+	• Telegram Web
+	• Telegram X
+	• TG Monet
+	• Themer
+	• TickTick Task
+	• TikTok
+	• TikTok Lite
+	• Tinder
+	• Translate New (Google)
+	• Translate Old (Google)
+	• Twitch
+	• Twitter
+	• Twitter Lite
+	• Unstoppable
+	• Updater (LineageOS)
+	• UtopiaWalls+
+	• Vector Asset Creator
+	• Via Browser
+	• Video (Samsung Video list)
+	• Videoleap
+	• Viper FX
+	• VLC
+	• VSCO
+	• Voice Recorder (Samsung)
+	• WAIFUPX
+	• WAIFUPX Beta
+	• Wallet (Google)
+	• Wallfever
+	• WalliPop
+	• Wallman
+	• WallSweets
+	• Wattpad
+	• Wattpad Beta
+	• Weather (Default)
+	• Webtoon
+	• WhatsApp
 	• WhatsApp Business
-    • XAPKS Installer
+	• Woofz
+	• Wynk Music
+	• xManager
+	• XAPKS Installer
+	• YMusic
+	• YouTube
+	• YouTube Vanced
+	• YouTube Music
 	• Yo WhatsApp
 	• You Icons
-	• YT Music
+	• YT Music (Revanced)
+	• YT Vanced Music
 	• Zarchiver
 	• Zarchiver Pro
+	• Zedge
+	• Zen Mode (Oneplus)
+

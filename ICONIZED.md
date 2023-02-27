@@ -3,6 +3,7 @@
 
 
 	• 1Gallery
+	• 1Tap Cleaner
 	• 1.1.1.1 VPN+
 	• 99
 	• Abbey
@@ -20,6 +21,7 @@
 	• Android System Intelligence (Personalization)
 	• Apple Music
 	• Appteka
+	• AppSales
 	• App Cloner
 	• Apk Editor
 	• Apk Editor 2
@@ -31,9 +33,11 @@
 	• Auxio
 	• Avast Cleanup
 	• Awalls YOU
+	• Az Screen Recorder
 	• Background Eraser
 	• Battery Guru
 	• BeeTV
+	• Bing
 	• Birday
 	• BlackPlayer
 	• Blendy Wallpapers
@@ -53,10 +57,14 @@
 	• Camera GO (Google)
 	• Camera LMC8.4
 	• CandyBar Dashboard
+	• Catogram
+	• Catogram X
+	• Cherrygram
 	• Chrome
 	• Chrome Beta
 	• Chrome Canary
 	• Chrome Dev
+	• Clash
 	• Clock (Default)
 	• Coinbase
 	• Coinex
@@ -64,6 +72,7 @@
 	• Contacts (Default)
 	• Contacts (Google)
 	• Contacts (Samsung)
+	• Crystal For Samsung
 	• Cyber Ghost
 	• Developer Assistant
 	• DGicons You
@@ -73,6 +82,7 @@
 	• Dolby Atmos
 	• Dove
 	• Drive (Google)
+	• DuckDuckGo
 	• Dynamic Icons
 	• Edge
 	• Edge Beta
@@ -91,6 +101,7 @@
 	• Firefox Nightly
 	• Flo Ovulation
 	• Foxbit
+	• Fox's Magisk Module Manager
 	• Galaxy Store
 	• Gallery (Quickpic)
 	• Gallery (Samsung)
@@ -101,6 +112,7 @@
 	• GitHub
 	• Glider
 	• Gmail
+	• Gojek
 	• Google
 	• Google Assistant
 	• Google Earth
@@ -122,6 +134,7 @@
 	• Inure
 	• Inware
 	• IOSXPC Wallpapers
+	• IPPB Mobile
 	• Justwatch
 	• Keep Notes
 	• Kiwi Browser
@@ -141,6 +154,7 @@
 	• Magisk Manager
 	• Magroove
 	• Maps (Google)
+	• Maps Go (Google)
 	• Material Files
 	• Materixiv
 	• MDgram
@@ -160,10 +174,12 @@
 	• Motionleap
 	• Moviebase
 	• Moon Reader
+	• Moon Reader Pro
 	• MT Manager
 	• MT Manager Canary
 	• Music (Xiaomi)
 	• Music (Oppo)
+	• MyJio
 	• My Files
 	• My Robi
 	• Nekogram (+ Nekogram Neon)
@@ -186,6 +202,7 @@
 	• OneYou Themed
 	• Oto Music
 	• Otraku
+	• Overdrop
 	• Owlgram
 	• Package Names Viewer
 	• Papago
@@ -194,7 +211,9 @@
 	• PENUP
 	• Phone (Samsung)
 	• Phone by Google
+	• Phonepe
 	• Photoleap
+	• Photoroom
 	• Photos (Google)
 	• Photoshop Express
 	• PicsArt
@@ -233,6 +252,7 @@
 	• Roblox
 	• SAI
 	• Samsung Flow
+	• Samsung Health
 	• Samsung Internet
 	• Samsung Members
 	• Samsung Music
@@ -252,6 +272,7 @@
 	• Simple Gallery Pro
 	• Sketch
 	• Sketchbook
+	• Skit
 	• Snapchat
 	• Snapseed
 	• Sofascore
@@ -261,8 +282,10 @@
 	• Spotify Lite
 	• SpotiQ
 	• SpotiQ Ten
+	• Stealth for Reddit
 	• Stellio Player
 	• Sticker.ly
+	• Surfshark
 	• SwiftKey Keyboard
 	• SwiftKey Keyboard Beta
 	• Swift Backup
@@ -279,6 +302,7 @@
 	• Tinder
 	• Translate New (Google)
 	• Translate Old (Google)
+	• Turbotel Pro
 	• Twitch
 	• Twitter
 	• Twitter Lite
@@ -291,6 +315,7 @@
 	• Videoleap
 	• Viper FX
 	• VLC
+	• VPNIFY
 	• VSCO
 	• Voice Recorder (Samsung)
 	• WAIFUPX

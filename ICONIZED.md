@@ -47,6 +47,7 @@
 	• Bromite
 	• Bugjaeger
 	• Bundled Notes
+	• Cal
 	• Calculator
 	• Call Of Duty
 	• Calendar Dym (Default)
@@ -88,6 +89,7 @@
 	• Edge Beta
 	• Efootball™
 	• EPIK
+	• Equalizer
 	• ExteraGram
 	• Facebook
 	• Facebook Lite
@@ -220,6 +222,7 @@
 	• Pigments
 	• Piktures
 	• Pinterest
+	• Pixellab
 	• Pixiv
 	• Pix Material You Icons and Widgets 
 	• Pix Wallpapers
@@ -227,6 +230,7 @@
 	• Play Games
 	• Play Store
 	• PLOP
+	• Plus Messenger
 	• Pokemon GO
 	• Polarr
 	• popWALLS
@@ -265,6 +269,7 @@
 	• Settings
 	• Shazam
 	• Shazam Lite
+	• Showly
 	• Signal
 	• SIM
 	• SIM 2

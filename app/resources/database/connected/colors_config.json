@@ -1,13 +1,14 @@
 {
-  "latestVersion": "Moon Soojin",
-  "latestVersionCode": 1,
+  "latestVersion": "Kaemi",
+  "latestVersionCode": 2,
   "disableRequest": {
     "below": 5
   },
   "url": "https://t.me/aconsPreReleases",
   "releaseNotes": [
-    "<b>Release version with 300 Icons",
-    "Analog clock widget with a new design",
+    "More icons added, now themed 350",
+    "New colors for day and night mode",
+    "Color fixes in Android 11 -",
     "<i>Thank you very much for supporting the project and for loving my work</i>"
   ]
 }

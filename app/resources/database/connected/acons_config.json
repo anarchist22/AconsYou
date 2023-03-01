@@ -1,16 +1,16 @@
 {
-  "latestVersion": "Moon",
-  "latestVersionCode": 3,
+  "latestVersion": "Feyra",
+  "latestVersionCode": 4,
   "disableRequest": {
     "below": 5
   },
   "url": "https://t.me/aconsPreReleases",
   "releaseNotes": [
     "<b>+50 Icons</b>",
-    "300 Icons Aconized 🧪🪄",
+    "350 Icons Aconized 🧪🪄",
     "Some redesigned and connected icons",
-    "Analog clock widget with a new design",
-    "New variant with more accent colors in Acons Labs (<i>Acons Colors</i>)",
+    "Secret icons themed",
+    "Some changes in the app",
     "<i>Thank you very much for supporting the project and for loving my work</i>"
   ]
 }
